@@ -547,3 +547,30 @@ header {
   
   }
 
+
+ @media (max-width: 991px) {
+    .navbar-mainbg {  
+        padding: 25px 10px !important;
+      }
+  
+  }
+  @media (max-width: 600px) {
+    .main_info h2 {
+      font-size: 42px;
+      font-weight: bold;
+  }
+  .main_boxes section h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0 0 19px;
+}
+
+.main_boxes section {
+  max-width: 100%;
+  width: 91%;
+  padding: 48px;
+}
+  
+  }
+
+
